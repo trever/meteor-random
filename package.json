@@ -1,6 +1,6 @@
 {
   "name": "meteor-random",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Meteor's Random Package for Straight Node",
   "main": "index.js",
   "scripts": {
