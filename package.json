@@ -1,0 +1,11 @@
+{
+  "name": "meteor-random",
+  "version": "0.0.1",
+  "description": "Meteor's Random Package for Straight Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trever Faden",
+  "license": "BSD-2-Clause"
+}
