@@ -4,10 +4,12 @@
   "description": "Meteor's Random Package for Straight Node",
   "main": "index.js",
   "scripts": {
-    "test": "test.js" },
+    "test": "node test.js"
+  },
   "author": "Trever Faden",
   "license": "BSD-2-Clause",
   "dependencies": {
     "crypto": "0.0.3"
-  }
+  },
+  "devDependencies": {}
 }
